@@ -1,5 +1,5 @@
 # codility
-Codility lesson tasks and their solution written in python.
+Codility lesson tasks and their solution written in python and javascript.
 
 All rights go to Codility, these are just my solutions to their open-source problems, which can be found here: 
 https://app.codility.com/programmers/lessons
